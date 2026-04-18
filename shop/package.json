@@ -1,0 +1,1 @@
+{\n  "name": "shoppro-manager",\n  "version": "1.0.0",\n  "main": "server.js",\n  "dependencies": {\n    "express": "^latest",\n    "jsonwebtoken": "^latest",\n    "bcrypt": "^latest",\n    "sqlite3": "^latest",\n    "cors": "^latest",\n    "dotenv": "^latest"\n  },\n  "scripts": {\n    "start": "node server.js"\n  }\n}
